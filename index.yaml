@@ -3,12 +3,12 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-04T00:32:18.0299677+04:30"
+    created: "2020-09-04T00:36:10.896779+04:30"
     description: A Helm chart for Kubernetes
     digest: 3fb9c1aa6d3d682fd108688d405a0f91e75a258d0ff51b8d42677df150f73d4b
     name: helm-chart-test
     type: application
     urls:
-    - https://mohammadvr.github.io/helm-charts/helm-chart-test-0.1.0.tgz
+    - https://mrvarmazyar.github.io/helm-charts/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-04T00:32:18.0291034+04:30"
+generated: "2020-09-04T00:36:10.8957833+04:30"
